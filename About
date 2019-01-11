@@ -1,0 +1,8 @@
+This is one Activity app on Recycler View which is connected to the Firebase Realtime Database.
+The user can input data -UserID, Name and Age from the EditTexts and can Refresh Data to get Data from Database.
+
+To get access of Firebase Database, contact me so that I could send you invite.
+
+Also, Any changes made in the database is also added to the Recycler View on clicking the Refresh Button
+Please Contact me via
+nidhi.gandhi0211@gmail.com
